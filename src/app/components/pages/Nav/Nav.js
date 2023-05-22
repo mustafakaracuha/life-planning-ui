@@ -5,7 +5,7 @@ import { HiOutlineMenuAlt4 } from 'react-icons/hi';
 
 export default function Nav() {
   return (
-    <div className="w-full h-0 flex items-center justify-between max-md:px-0 max-sm:px-0">
+    <div className="w-full h-0 flex items-center justify-between max-md:px-0 max-sm:px-0 xl:px-20 lg:px20">
       <div className="flex items-center justify-end">
         <Image className="mb-2 mr-1" src={Logo} width={100} height={100} />
          <p className="max-sm:block max-sm:text-[12px] max-md:block lg:block xl:block">/ mustafakaracuha</p>
