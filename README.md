@@ -32,6 +32,6 @@ https://life-planning-ui.vercel.app/
   
 ### Screenshot
 
-<img align="center" width="900" width="900" src="https://github.com/mustafakaracuha/react-fitness-app-demo/blob/main/src/assets/screenshot.png" alt="muskaracuha" />
+<img align="center" width="900" width="900" src="https://github.com/mustafakaracuha/life-planning-ui/blob/main/src/assests/images/screenshot.png" />
 
   
