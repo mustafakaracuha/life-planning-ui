@@ -1,4 +1,4 @@
-# Life Planning UI Demo
+# Life Planning Responsive UI 
 
 
 ## Technologies and Libraries
