@@ -5,7 +5,7 @@ import Footer from './components/pages/Footer/Footer';
 
 export default function Home() {
   return (
-    <div className='w-full h-screen p-14'>
+    <div className='w-full h-screen max-sm:px-5 p-14'>
       <Nav/>
       <Main/>
       <Footer/>
